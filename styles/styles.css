@@ -60,12 +60,15 @@ ol {
 
 /* ------------------------------------------- Main Style */
 
+.wriper {
+  width: 1280px;
+  padding: 40px;
+  margin: 0 auto;
+  background: transparent;
+}
 .main {
   display: flex;
   flex-direction: row-reverse;
-
-  width: 1200px;
-  margin: 40px auto;
 
   background: var(--bg-main-color);
 
